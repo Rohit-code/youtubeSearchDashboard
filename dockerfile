@@ -2,10 +2,10 @@
 FROM python:3.11
 
 # Set the working directory in the container
-WORKDIR D:\Users\bonir\Documents\GitHub\youtubeSearchDashboard
+WORKDIR /YoutubeSearchDashboard
 
 # Copy the current directory contents into the container at /app
-COPY . /D:/Users/bonir/Documents/GitHub/youtubeSearchDashboard
+COPY . /YoutubeSearchDashboard
 
 # Install any needed dependencies specified in requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
@@ -14,7 +14,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 EXPOSE 80
 
 # Define environment variable
-ENV NAME youtubeSearchDashboard
+ENV NAME youtubesearchdashboard
 
 # Run app.py when the container launches
-CMD ["python", "app.py"]
+CMD ["python", "YoutubeSearchDashboard/manage.py","runserver"]

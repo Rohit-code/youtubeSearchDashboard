@@ -1,2 +1,2 @@
-api_key_channel_and_videos = "AIzaSyB9LvopSZmj-pqIGOBdOn-vbL_Oekx8cYk"
-api_key_video_statistics = "AIzaSyCpGM-qLnynZVupCHCqC0n5LXPnTP2PATY"
+api_key_channel_and_videos = "key"
+api_key_video_statistics = "key"

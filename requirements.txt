@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 django
 djangorestframework
 elasticsearch
@@ -7,6 +7,4 @@ python-dotenv
 psycopg2
 google-api-python-client
 requests
-=======
 
->>>>>>> 4228fdd7bc27a4f2d2f7e6704f91cc2525d53e3d
