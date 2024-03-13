@@ -1,0 +1,5 @@
+django
+djangorestframework
+elasticsearch
+aiohttp
+python-dotenv
