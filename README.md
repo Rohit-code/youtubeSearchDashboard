@@ -66,4 +66,4 @@ This Django application provides endpoints to fetch and store data from the YouT
 - This README assumes basic knowledge of Django and RESTful API concepts.
 
 
-![Image Description](\images\Screenshot 2024-03-13 221717.png)
+![Image Description](images\Screenshot 2024-03-13 221717.png)
