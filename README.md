@@ -66,6 +66,6 @@ This Django application provides endpoints to fetch and store data from the YouT
 - This README assumes basic knowledge of Django and RESTful API concepts.
 
 
-![Image of videos and its Counts](https://github.com/rohit-code/YoutubeSearchDashboard/youtubeSearchDashboard/images/202403-13221717.jpg)
+![Image of videos and its Counts](https://github.com/Rohit-code/youtubeSearchDashboard/blob/main/images/2024-03-13221749.jpg)
 
-![Image title and Its stats](https://github.com/rohit-code/YoutubeSearchDashboard/youtubeSearchDashboard/images/2024-03-13221749.jpg)
+![Image title and Its stats](https://github.com/Rohit-code/youtubeSearchDashboard/blob/main/images/202403-13221717.jpg)
